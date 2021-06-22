@@ -10,4 +10,4 @@ One species, Iris Setosa, is "linearly separable" from the other two. This means
 Predicted Attribute: Different Species of Iris plant.
 
 ## Purpose
-The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas and Data Visualization Libraries.
+The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas and Data Visualization Librariesand algorithm Support vector.
